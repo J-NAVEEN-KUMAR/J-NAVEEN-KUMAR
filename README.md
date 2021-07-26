@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Web Development.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with designing developer portfolio. 
-- 📫 How to reach me: <a href="linkedin.com/in/naveen-kumar-12307a190">LinkedIn</a>
+- 📫 How to reach me: Mail me : <span style="color:blue;">naveen.jeruban@gmail.com</span>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: You are a minuscule part of this universe.
