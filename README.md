@@ -2,7 +2,7 @@
 
 
 - 🔭 MERN stack web developer and web designer.
-- 🌱 I’m currently learning Redux and Graphql.
+- 🌱 I’m currently looking for role as full stack developer.
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with understanding system design. 
 - 📫 How to reach me: Mail me : <span style="color:blue;">naveen.jeruban@gmail.com</span>
